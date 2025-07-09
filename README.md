@@ -32,7 +32,7 @@ This app uses real-time weather data to predict tomorrow’s temperature using a
 
 ## 🖼️ Frontend Screenshot
 
-> 🔍 [Click here to view the full-sized UI image](images/screenshot.png)
+> 🔍 [Click here to view the full-sized UI image](images/Screenshot.png)
 
 ---
 
