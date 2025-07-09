@@ -36,10 +36,10 @@ This app uses real-time weather data to predict tomorrow’s temperature using a
 
 ---
 
-## 🔗 Live Demo
 
-> 🖥️ Hosted on S3:  
-[Click to view the live website](https://weather-forecast-frontend-megha.s3-website.ap-south-1.amazonaws.com)
+### 🔗 Live Frontend
+
+🔗 **[Click here to visit the website](http://weather-forecast-frontend-megha.s3-website.ap-south-1.amazonaws.com)**
 
 
 > 🌐 API Gateway Endpoint (Backend):  
