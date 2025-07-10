@@ -7,6 +7,12 @@ A full-stack weather forecasting web application that predicts tomorrow's temper
 ## 📋 Description
 
 This app uses real-time weather data to predict tomorrow’s temperature using a machine learning model trained on historical data. The user selects a city and enters their email to receive the forecast.
+🚨 Note:
+This project uses a SageMaker real-time endpoint for weather forecasting.
+To avoid AWS billing, the live endpoint has been deleted.
+To test the project, follow the instructions in `create_model_and_endpoint.py` to deploy your own endpoint.
+You can use a cheaper instance type like `ml.t2.medium` for testing.
+
 
 ---
 
